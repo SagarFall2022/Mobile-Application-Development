@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/faranhiet"
+        android:enabled="true"
+        android:icon="@drawable/units_f"
+        android:title=""
+        android:visible="true"
+        app:showAsAction="always"></item>
+
+
+
+    <item android:id="@+id/daily"
+        android:title=""
+        android:icon="@drawable/daily"
+        app:showAsAction="always"></item>
+    <item android:id="@+id/location"
+        android:title=""
+        android:icon="@drawable/location"
+        app:showAsAction="always">
+    </item>
+
+
+
+
+
+</menu>
+
